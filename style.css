@@ -1,0 +1,65 @@
+body {
+    font-family: 'Noto Sans Adlam Unjoined', sans-serif;
+}
+
+#cabecalho {
+    background-color: #27e036;
+}
+
+.sectionTitle {
+    font-family: 'Lisu Bosa', serif;
+    font-size: 3.1em;
+    padding-right: 300px;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: rgb(48, 119, 0);
+    padding-right: 14px;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.corSubtitulo, .corSubtitulo {
+    color: #27e036;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #ffffff;
+    color: #27e036 ;
+}
+
+.nav-link:hover{
+    color: #27e036;
+    
+}
+
+.carousel-item img {
+    height: 859px;
+}
+
+#sobre {
+    background-color: #e7ffe9;
+}
+
+.navCardapio .nav-link.active{
+    background-color: #27e036;
+    color: #fff;
+}
+
+.socialLinks li {
+    list-style: none;
+    display: inline;
+}
+
+.socialLinks a {
+    text-decoration: none;
+}
+
+
+#faleConosco input:focus{
+    border-color: #27e036;
+    outline: none;
+    box-shadow: 0 0 3px #27e036;
+}
+
